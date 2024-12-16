@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "uLFfCIxEkYTpkJjE8OoHt1XxIEow8vM+gZtVC4KFD5A=",
+  "Source": "LH Pets",
+  "BasePath": "_content/LH Pets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LH Pets\\wwwroot",
+      "Source": "LH Pets",
+      "ContentRoot": "C:\\Users\\Fellipe Volaco\\OneDrive\\Área de Trabalho\\Full Stack\\Codificaçao back-end\\Projeto LH-Pets\\LH Pets\\wwwroot\\",
+      "BasePath": "_content/LH Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Fellipe Volaco\\OneDrive\\Área de Trabalho\\Full Stack\\Codificaçao back-end\\Projeto LH-Pets\\LH Pets\\obj\\Debug\\net9.0\\compressed\\m2dkhi62j3-x0kmtzyvzb.gz",
+      "SourceId": "LH Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Fellipe Volaco\\OneDrive\\Área de Trabalho\\Full Stack\\Codificaçao back-end\\Projeto LH-Pets\\LH Pets\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/LH Pets",
+      "RelativePath": "index#[.{fingerprint=x0kmtzyvzb}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Fellipe Volaco\\OneDrive\\Área de Trabalho\\Full Stack\\Codificaçao back-end\\Projeto LH-Pets\\LH Pets\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "o4zy2u4k54",
+      "Integrity": "qF9Gy/lY++n8HHkFGNXMsCCwjEA2Z+rsoBk63vECIRE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Fellipe Volaco\\OneDrive\\Área de Trabalho\\Full Stack\\Codificaçao back-end\\Projeto LH-Pets\\LH Pets\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Fellipe Volaco\\OneDrive\\Área de Trabalho\\Full Stack\\Codificaçao back-end\\Projeto LH-Pets\\LH Pets\\wwwroot\\index.html",
+      "SourceId": "LH Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Fellipe Volaco\\OneDrive\\Área de Trabalho\\Full Stack\\Codificaçao back-end\\Projeto LH-Pets\\LH Pets\\wwwroot\\",
+      "BasePath": "_content/LH Pets",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x0kmtzyvzb",
+      "Integrity": "H2h71zUwl7+WFrrXQdOacWF4wqd5nX86EeBVcj6Sgh0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Fellipe Volaco\\OneDrive\\Área de Trabalho\\Full Stack\\Codificaçao back-end\\Projeto LH-Pets\\LH Pets\\obj\\Debug\\net9.0\\compressed\\m2dkhi62j3-x0kmtzyvzb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005154639175"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qF9Gy/lY++n8HHkFGNXMsCCwjEA2Z+rsoBk63vECIRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 03:21:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"H2h71zUwl7+WFrrXQdOacWF4wqd5nX86EeBVcj6Sgh0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H2h71zUwl7+WFrrXQdOacWF4wqd5nX86EeBVcj6Sgh0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Fellipe Volaco\\OneDrive\\Área de Trabalho\\Full Stack\\Codificaçao back-end\\Projeto LH-Pets\\LH Pets\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H2h71zUwl7+WFrrXQdOacWF4wqd5nX86EeBVcj6Sgh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 03:21:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H2h71zUwl7+WFrrXQdOacWF4wqd5nX86EeBVcj6Sgh0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Fellipe Volaco\\OneDrive\\Área de Trabalho\\Full Stack\\Codificaçao back-end\\Projeto LH-Pets\\LH Pets\\obj\\Debug\\net9.0\\compressed\\m2dkhi62j3-x0kmtzyvzb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qF9Gy/lY++n8HHkFGNXMsCCwjEA2Z+rsoBk63vECIRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 03:21:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qF9Gy/lY++n8HHkFGNXMsCCwjEA2Z+rsoBk63vECIRE="
+        }
+      ]
+    },
+    {
+      "Route": "index.x0kmtzyvzb.html",
+      "AssetFile": "C:\\Users\\Fellipe Volaco\\OneDrive\\Área de Trabalho\\Full Stack\\Codificaçao back-end\\Projeto LH-Pets\\LH Pets\\obj\\Debug\\net9.0\\compressed\\m2dkhi62j3-x0kmtzyvzb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005154639175"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qF9Gy/lY++n8HHkFGNXMsCCwjEA2Z+rsoBk63vECIRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 03:21:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"H2h71zUwl7+WFrrXQdOacWF4wqd5nX86EeBVcj6Sgh0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0kmtzyvzb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H2h71zUwl7+WFrrXQdOacWF4wqd5nX86EeBVcj6Sgh0="
+        }
+      ]
+    },
+    {
+      "Route": "index.x0kmtzyvzb.html",
+      "AssetFile": "C:\\Users\\Fellipe Volaco\\OneDrive\\Área de Trabalho\\Full Stack\\Codificaçao back-end\\Projeto LH-Pets\\LH Pets\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H2h71zUwl7+WFrrXQdOacWF4wqd5nX86EeBVcj6Sgh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 03:21:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0kmtzyvzb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H2h71zUwl7+WFrrXQdOacWF4wqd5nX86EeBVcj6Sgh0="
+        }
+      ]
+    },
+    {
+      "Route": "index.x0kmtzyvzb.html.gz",
+      "AssetFile": "C:\\Users\\Fellipe Volaco\\OneDrive\\Área de Trabalho\\Full Stack\\Codificaçao back-end\\Projeto LH-Pets\\LH Pets\\obj\\Debug\\net9.0\\compressed\\m2dkhi62j3-x0kmtzyvzb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qF9Gy/lY++n8HHkFGNXMsCCwjEA2Z+rsoBk63vECIRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 03:21:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0kmtzyvzb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qF9Gy/lY++n8HHkFGNXMsCCwjEA2Z+rsoBk63vECIRE="
+        }
+      ]
+    }
+  ]
+}

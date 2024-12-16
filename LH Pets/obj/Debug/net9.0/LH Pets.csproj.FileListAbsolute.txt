@@ -1,0 +1,69 @@
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\bin\Debug\net9.0\appsettings.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\bin\Debug\net9.0\LH Pets.staticwebassets.endpoints.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\bin\Debug\net9.0\LH Pets.exe
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\bin\Debug\net9.0\LH Pets.deps.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\bin\Debug\net9.0\LH Pets.runtimeconfig.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\bin\Debug\net9.0\LH Pets.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\bin\Debug\net9.0\LH Pets.pdb
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.AssemblyInfoInputs.cache
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.AssemblyInfo.cs
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\scopedcss\bundle\LH Pets.styles.css
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets\msbuild.LH Pets.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets\msbuild.LH Pets.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets\msbuild.build.LH Pets.props
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.LH Pets.props
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.LH Pets.props
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\refint\LH Pets.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.pdb
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.genruntimeconfig.cache
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\ref\LH Pets.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\bin\Debug\net9.0\LH Pets.staticwebassets.runtime.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\compressed\m2dkhi62j3-14ib73acx4.gz
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Prpjeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.csproj.AssemblyReference.cache
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.csproj.AssemblyReference.cache
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.AssemblyInfoInputs.cache
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.AssemblyInfo.cs
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\refint\LH Pets.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.pdb
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\bin\Debug\net9.0\appsettings.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\bin\Debug\net9.0\LH Pets.staticwebassets.runtime.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\bin\Debug\net9.0\LH Pets.staticwebassets.endpoints.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\bin\Debug\net9.0\LH Pets.exe
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\bin\Debug\net9.0\LH Pets.deps.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\bin\Debug\net9.0\LH Pets.runtimeconfig.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\bin\Debug\net9.0\LH Pets.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\bin\Debug\net9.0\LH Pets.pdb
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\scopedcss\bundle\LH Pets.styles.css
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\compressed\m2dkhi62j3-x0kmtzyvzb.gz
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets\msbuild.LH Pets.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets\msbuild.LH Pets.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets\msbuild.build.LH Pets.props
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.LH Pets.props
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.LH Pets.props
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.csproj.Up2Date
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\LH Pets.genruntimeconfig.cache
+C:\Users\Fellipe Volaco\OneDrive\Área de Trabalho\Full Stack\Codificaçao back-end\Projeto LH-Pets\LH Pets\obj\Debug\net9.0\ref\LH Pets.dll
